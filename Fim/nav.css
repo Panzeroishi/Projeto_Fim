@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav{
+    background-color:#F4DE11;
+    height:13vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+nav a{
+    background-color:#25ACB5;
+    color:#FFFFFF;
+    padding:15px;
+    border-radius:15px;
+    text-align: center;
+    font-family:'font_bold';
+    text-decoration:none;
+    font-size: 19px;
+}
+@font-face {
+    font-family:'font_bold' ;
+    src: url(./_fonts/Roboto-Bold.ttf);
+}

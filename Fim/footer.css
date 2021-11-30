@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    margin:0;
+}
+footer{
+    background-color:#F4DE11;
+    height:20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer a{
+    background-color:#25ACB5;
+    text-decoration:none;
+    color: #fff;
+    font-family:'font_bold';
+    padding:15px;
+    border-radius:15px;
+
+}
+@font-face {
+    font-family:'font_bold';
+    src: url(./_fonts/Roboto-Bold.ttf);
+}

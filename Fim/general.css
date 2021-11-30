@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin:0;
+}
+.menu-index{
+    height:70vh;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color:blue;
+
+}
+.menu1{
+    background-color:#25ACB5;
+    height:20vh;
+    width: 20vw;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.menu1 input{
+    margin: 5px;
+}
